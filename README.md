@@ -102,7 +102,7 @@ npm start
 ## 📷 Screenshots
 
 ### 🎥 Demo Video
-[🎥 Watch Demo Video](assets/demo.mp4)
+[![Watch the video](assets/demo_thumbnail.jpg)](assets/demo.mp4)
 
 ---
 
